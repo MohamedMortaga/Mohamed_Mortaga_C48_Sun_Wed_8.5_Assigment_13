@@ -1,0 +1,16 @@
+{
+  "name": "notes-management-system",
+  "version": "1.0.0",
+  "description": "Assignment 13 - TypeScript OOP: Simple Notes Management System",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "dev": "tsc && node dist/main.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.2"
+  }
+}
